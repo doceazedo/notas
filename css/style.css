@@ -1,0 +1,7 @@
+#content {
+  min-height: 100vh;
+  padding: 3rem;
+  outline: none;
+  font-family: 'Fira Mono', monospace;
+  font-size: 1.25rem;
+}
